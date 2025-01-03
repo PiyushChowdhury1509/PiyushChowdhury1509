@@ -10,7 +10,6 @@
 ###
 
 <img align="right" height="180" src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif"  />
-[![GitHub Streak](https://streak-stats.demolab.com/?user=PiyushChowdhury1509)](https://git.io/streak-stats)
 
 ###
 
