@@ -12,6 +12,7 @@
 <img align="right" height="180" src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif"  />
 
 ###
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PiyushChowdhury1509&layout=compact&langs_count=10)
 
 <div align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="30" alt="javascript logo"  />
